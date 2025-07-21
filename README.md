@@ -1,2 +1,2 @@
 # My Resume file
-# Last Updated 20 July 2025
+ Last Updated 20 July 2025
